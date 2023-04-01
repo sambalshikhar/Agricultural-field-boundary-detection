@@ -1,29 +1,5 @@
 # Spatio-Temporal Attention-based Unet for Field Boundary Detection
 
-First place solution for [NASA Harvest Field Boundary Detection Challenge](https://zindi.africa/competitions/nasa-harvest-field-boundary-detection-challenge/leaderboard)
-
-![{{model_nasa_rwanda_field_boundary_competition_gold_v1}}](https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/competition/image/331/header_21ba8a01-ef4a-43c4-af10-8c5bab32d572.png)
-
-MLHub model id: `model_nasa_rwanda_field_boundary_competition_gold_v1`. Browse on [Radiant MLHub](https://mlhub.earth/model/model_nasa_rwanda_field_boundary_competition_gold_v1).
-
-## ML Model Documentation
-
-Please review the model architecture, license, applicable spatial and temporal extents
-and other details in the [model documentation](/docs/index.md).
-
-## System Requirements
-
-* Git client
-* [Docker](https://www.docker.com/) with
-    [Compose](https://docs.docker.com/compose/) v1.28 or newer.
-
-## Hardware Requirements
-
-||Training|Inferencing|
-|---|-----------|--------|
-|RAM|25 GB RAM | 16 GB RAM|
-|NVIDIA GPU| A100 80GB | Optional (but very slow)|
-
 ## Get Started With Inferencing
 
 First clone this Git repository.

@@ -1,5 +1,9 @@
 # Spatio-Temporal Attention-based Unet for Field Boundary Detection
 
+![](https://github.com/sambalshikhar/Agricultural-field-boundary-detection/blob/7dd510f3cbc2319c99556d16d2d7f61e93c51c3a/Screenshot%20from%202023-04-01%2018-18-09.png)
+
+![](https://github.com/sambalshikhar/Agricultural-field-boundary-detection/blob/7dd510f3cbc2319c99556d16d2d7f61e93c51c3a/Screenshot%20from%202023-04-01%2018-18-19.png)
+
 ## Get Started With Inferencing
 
 First clone this Git repository.
@@ -66,8 +70,3 @@ docker build -t radiantearth/model_nasa_rwanda_field_boundary_competition_gold:1
 
 4. Wait for the `docker compose` to finish running, then inspect the
 `OUTPUT_DATA` folder for results.
-
-## Understanding Output Data
-
-Please review the model output format and other technical details in the [model
-documentation](/docs/index.md).
